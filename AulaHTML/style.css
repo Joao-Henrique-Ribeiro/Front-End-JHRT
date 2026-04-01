@@ -1,5 +1,4 @@
 body{
-    max-height: 100vh;
     background-color: #181920;
     color: #f1efce;
 }
@@ -32,16 +31,12 @@ h2{
     text-align: center;
 }
 
-.central-links{
-    display: flex;
-
-}
-
 .icone-edit{
+    height: auto;
     display: block;
     border: 10px solid #5c68c0;
     border-radius: 100%;
-    max-width: 75%;
+    max-width: 65%;
     height: auto;
     margin: auto;
 }
